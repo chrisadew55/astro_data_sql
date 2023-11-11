@@ -9,7 +9,7 @@
 ---
 
 ### Project overview
-Self directed project integrating astrology to practice basic SQL with MS SQL Server.
+Self directed project integrating astrology to practice SQL with MS SQL Server.
 
 ### Data sources
 I ran into a few issues trying to get hold of specific AstroDataBank data, so I decided to create my own small sample of randomised birth dates, locations and names using ChatGPT. I then used AstroGold to generate charts and collect superficial planetary information. I loaded the necessary info into Excel and from there created the 'astrology database.csv' that I loaded into SQL Server.
