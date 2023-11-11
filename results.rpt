@@ -1,0 +1,112 @@
+﻿ascendant                                          top_asc
+-------------------------------------------------- -----------
+Leo                                                8
+
+(1 row affected)
+
+venus                                              top_v
+-------------------------------------------------- -----------
+Cancer                                             6
+
+(1 row affected)
+
+pluto                                              name
+-------------------------------------------------- --------------------------------------------------
+Libra                                              Emma Parker
+Libra                                              Sophia Ross
+Libra                                              Aiden Wright
+Libra                                              Logan Phillips
+Libra                                              Jack Campbell
+Libra                                              Samuel Harrison
+Libra                                              Benjamin Powell
+Libra                                              Zoey Bennett
+Libra                                              Layla Turner
+Libra                                              Penelope Collins
+Libra                                              Leo Morgan
+
+(11 rows affected)
+
+name                                               date_of_birth birth_time       birth_location                                     ascendant                                          sun                                                moon                                               mercury                                            venus                                              mars                                               jupiter                                            saturn                                             uranus                                             neptune                                            pluto                                              chiron                                             north_node
+-------------------------------------------------- ------------- ---------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------------------------------
+Ava Brooks                                         1985-07-29    21:10:00.0000000 Rio de Janeiro, Brazil                             Pisces                                             Leo                                                Capricorn                                          Leo                                                Gemini                                             Leo                                                Aquarius                                           Scorpio                                            Sagittarius                                        Capricorn                                          Scorpio                                            Gemini                                             Taurus
+Caleb Price                                        1987-07-11    12:35:00.0000000 Bangkok, Thailand                                  Libra                                              Cancer                                             Capricorn                                          Cancer                                             Cancer                                             Leo                                                Aries                                              Sagittarius                                        Sagittarius                                        Capricorn                                          Scorpio                                            Gemini                                             Aries
+Grace Taylor                                       2002-07-08    08:10:00.0000000 Berlin, Germany                                    Leo                                                Cancer                                             Gemini                                             Cancer                                             Leo                                                Cancer                                             Cancer                                             Gemini                                             Aquarius                                           Aquarius                                           Sagittarius                                        Capricorn                                          Gemini
+Leo Morgan                                         1982-07-02    07:25:00.0000000 Vienna, Austria                                    Leo                                                Cancer                                             Scorpio                                            Gemini                                             Gemini                                             Libra                                              Scorpio                                            Libra                                              Sagittarius                                        Sagittarius                                        Libra                                              Taurus                                             Cancer
+
+(4 rows affected)
+
+sun                                                top_sun
+-------------------------------------------------- -----------
+Pisces                                             1
+
+(1 row affected)
+
+name                                               date_of_birth birth_time       birth_location                                     ascendant                                          sun                                                moon                                               mercury                                            venus                                              mars                                               jupiter                                            saturn                                             uranus                                             neptune                                            pluto                                              chiron                                             north_node
+-------------------------------------------------- ------------- ---------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------------------------------
+Sophia Ross                                        1978-12-09    07:40:00.0000000 Nairobi, Kenya                                     Capricorn                                          Sagittarius                                        Aries                                              Sagittarius                                        Scorpio                                            Sagittarius                                        Leo                                                Virgo                                              Scorpio                                            Sagittarius                                        Libra                                              Taurus                                             Virgo
+
+(1 row affected)
+
+mars                                               date_of_birth
+-------------------------------------------------- -------------
+Scorpio                                            1969-02-09
+Gemini                                             1970-06-01
+Leo                                                1970-08-22
+Capricorn                                          1971-04-26
+Virgo                                              1972-09-30
+Aries                                              1973-06-26
+Aries                                              1973-11-04
+Aquarius                                           1975-04-03
+Capricorn                                          1977-01-31
+Scorpio                                            1978-10-09
+Sagittarius                                        1978-12-09
+Capricorn                                          1980-12-14
+Libra                                              1982-05-18
+Libra                                              1982-07-02
+Pisces                                             1983-01-20
+Scorpio                                            1984-03-22
+Leo                                                1985-07-29
+Leo                                                1985-08-28
+Leo                                                1987-07-11
+Aquarius                                           1988-04-18
+Aries                                              1988-09-23
+Taurus                                             1989-02-14
+Scorpio                                            1989-11-30
+Taurus                                             1990-08-03
+Taurus                                             1990-12-17
+Leo                                                1991-06-15
+Capricorn                                          1992-01-11
+Pisces                                             1992-04-12
+Libra                                              1993-08-16
+Leo                                                1994-11-19
+Leo                                                1995-02-17
+Libra                                              1995-09-03
+Taurus                                             1996-05-25
+Virgo                                              1997-04-06
+Aquarius                                           1997-12-27
+Virgo                                              1998-11-10
+Scorpio                                            1999-03-26
+Libra                                              1999-05-24
+Gemini                                             2000-06-08
+Virgo                                              2000-11-01
+Sagittarius                                        2001-06-14
+Capricorn                                          2001-09-09
+Cancer                                             2002-07-08
+Scorpio                                            2003-01-15
+Capricorn                                          2003-03-15
+Leo                                                2004-08-04
+Sagittarius                                        2005-01-27
+Taurus                                             2005-10-22
+Libra                                              2006-10-05
+Gemini                                             2008-02-06
+
+(50 rows affected)
+
+moon                                               low_moon
+-------------------------------------------------- -----------
+Cancer                                             2
+
+(1 row affected)
+
+
+Completion time: 2023-11-11T19:34:35.4744530+00:00
